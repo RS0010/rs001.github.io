@@ -20,8 +20,8 @@
   * ##### BCD
     * 8421
     * 2421
- * ##### Gray code
- * ##### ASCII code
+  * ##### Gray code
+  * ##### ASCII code
 
 # **Bolean Logic & Basic Gates**
  * ### Boolean Logic
