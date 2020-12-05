@@ -106,9 +106,9 @@
 * ### Flipflops v Latches
 * ### Master-Slave Flipflops
 * ### Asyuchronous inputs
- * ##### asynchronous inputs
-   * preset (PRE)
-   * clear (CLR)
+  * ##### asynchronous inputs
+    * preset (PRE)
+    * clear (CLR)
 * ### Application Examples
  * ##### Contact bounce
  * ##### Frequency division
