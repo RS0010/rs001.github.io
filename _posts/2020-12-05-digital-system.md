@@ -51,30 +51,30 @@
   * ### Boolean Analysis of Logic Circuits
   * ### Boolean Algebra – Rules and
     * ##### properties of the OR gate
-     >A + 0 = A  
-     >A + 1 = 1  
-     >A' + A = A  
-     >A + A = A
+      >A + 0 = A  
+      >A + 1 = 1  
+      >A' + A = A  
+      >A + A = A
     * ##### properties of the AND gate
-     >A · 0 = 0  
-     >A · 1 = 1  
-     >A' · A = 0  
-     >A · A = A  
+      >A · 0 = 0  
+      >A · 1 = 1  
+      >A' · A = 0  
+      >A · A = A  
     * ##### property of the NOT gate
-     >A = A
+      >A = A
 
-     >A + AB = A  
-     >A (A + B) = A  
-     >A + AB= A + B  
+      >A + AB = A  
+      >A (A + B) = A  
+      >A + AB= A + B  
     * ##### Commutative – order of variables does not matter when using the AND and OR operations
-     >A + B = B + A  
-     >A · B = B · A
+      >A + B = B + A  
+      >A · B = B · A
     * ##### Associative – the result of applying an operation over 3 variables is not affected by the order taken
-     >A (BC) = (AB) C  
-     A + (B + C) = (A + B) + C
+      >A (BC) = (AB) C  
+      >A + (B + C) = (A + B) + C
     * ##### De Morgan’s theorems
-    >(A + B) = A'  · B'  
-    >(AB)'  =A' + B'
+      >(A + B) = A'  · B'  
+      >(AB)'  =A' + B'
 
 * ### Boolean Algebra – Minimisation
 
