@@ -84,12 +84,12 @@
 
 # **Implementation Using NAND / NOR Gates**
 * ### Universal Gates
- * NOT gate using NAND
- * NOT gate using NOR
- * AND gate using NAND
- * AND gate using NOR
- * OR gate using NOR
- * OR gate using NAND
+   * NOT gate using NAND
+   * NOT gate using NOR
+   * AND gate using NAND
+   * AND gate using NOR
+   * OR gate using NOR
+   * OR gate using NAND
 * ### Implementing Logic using NAND / NOR gates
 
 # **Sequential Logic & Flipflops**
