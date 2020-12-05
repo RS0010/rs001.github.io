@@ -81,7 +81,7 @@
 
 # **Boolean Minimisation Using Karnaugh Maps**
 * ### Minterms and Maxterms
-* ### ‘Don’t Care’ Conditions
+* ### Don't Care Conditions
 
 # **Implementation Using NAND / NOR Gates**
 * ### Universal Gates
@@ -105,3 +105,27 @@
 * ### The JK Flipflop
 * ### The T (Toggle) Flipflop
 * ### Flipflops v Latches
+* ### Master-Slave Flipflops
+* ### Asyuchronous inputs
+ * ##### asynchronous inputs
+   * preset (PRE)
+   * clesr (CLR)
+* ### Application Examples
+ * ##### Contact bounce
+ * ##### Frequency division
+
+#  **Counters & Registers**
+* ### Counter
+* ### Registers
+
+# **Multi-Output Networks & 7-Segment Displays**
+* ### Multi-output Minimisation
+* ### The 7-segment display
+  * ##### Common Cathode Mode
+  * ##### Common Anode Mode
+  * ##### BCD to 7-segment decoder
+
+# **Programmable Logic Devices (PLDs)**
+* ### Read Only Memory (ROM)
+* ### Programmable Logic Array (PLA)
+* ### Programmable Array Logic (PAL)
