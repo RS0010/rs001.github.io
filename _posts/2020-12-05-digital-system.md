@@ -47,8 +47,7 @@
  * ##### product-of-sums (POS)
  * ##### simplified or minimised Boolean function
 
-
- # **Boolean Minimisation Using Boolean Algebra**
+# **Boolean Minimisation Using Boolean Algebra**
  * ### Boolean Analysis of Logic Circuits
  * ### Boolean Algebra – Rules and
    * ##### properties of the OR gate
