@@ -108,7 +108,7 @@
 * ### Asyuchronous inputs
  * ##### asynchronous inputs
    * preset (PRE)
-   * clesr (CLR)
+   * clear (CLR)
 * ### Application Examples
  * ##### Contact bounce
  * ##### Frequency division
