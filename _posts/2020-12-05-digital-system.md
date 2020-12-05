@@ -4,20 +4,20 @@
 * ### 1.2 Digital circuits and Waveforms
  * -->
 * ### Terms
- * ##### MSB
+  * ##### MSB
      * Most Significant Bit
- * ##### LSB
+  * ##### LSB
      * Least Significant Bit
 * ### Binary-decimal conversion
 * ### Dealing with Fractions
 * ### Binary Arithmetic
 * ### Dealing with Negative Numbers
- * ##### 1's complement
- * ##### 2's complement
+  * ##### 1's complement
+  * ##### 2's complement
 * ### converting Signed Numbers to Decimal
 * ### Hexadecimal Representation
 * ### Binary Codes
- * ##### BCD
+  * ##### BCD
     * 8421
     * 2421
  * ##### Gray code
@@ -25,54 +25,54 @@
 
 # **Bolean Logic & Basic Gates**
  * ### Boolean Logic
-  * ##### truth table
+   * ##### truth table
  * ### Basic Logic Gates
-  * ##### The NOT gate
-  * ##### The AND gate
-  * ##### The OR gate
-  * ##### The NAND gate (NOT-AND)
-  * ##### The NOR gate (NOT-OR)
-  * ##### The XOR gate (Exclusive-OR)
-  * ##### The XNOR gate (Exclusive-NOR)
+   * ##### The NOT gate
+   * ##### The AND gate
+   * ##### The OR gate
+   * ##### The NAND gate (NOT-AND)
+   * ##### The NOR gate (NOT-OR)
+   * ##### The XOR gate (Exclusive-OR)
+   * ##### The XNOR gate (Exclusive-NOR)
 
 * ### Preliminary Definitions
- * ##### canonical truth table
- * ##### variable
- * ##### complement
- * ##### literal
- * ##### canonical product term
- * ##### canonical sum term
- * ##### canonical expression
- * ##### sum-of-products (SOP)
- * ##### product-of-sums (POS)
- * ##### simplified or minimised Boolean function
+  * ##### canonical truth table
+  * ##### variable
+  * ##### complement
+  * ##### literal
+  * ##### canonical product term
+  * ##### canonical sum term
+  * ##### canonical expression
+  * ##### sum-of-products (SOP)
+  * ##### product-of-sums (POS)
+  * ##### simplified or minimised Boolean function
 
 # **Boolean Minimisation Using Boolean Algebra**
- * ### Boolean Analysis of Logic Circuits
- * ### Boolean Algebra – Rules and
-   * ##### properties of the OR gate
+  * ### Boolean Analysis of Logic Circuits
+  * ### Boolean Algebra – Rules and
+    * ##### properties of the OR gate
      >A + 0 = A  
      >A + 1 = 1  
      >A' + A = A  
      >A + A = A
-   * ##### properties of the AND gate
+    * ##### properties of the AND gate
      >A · 0 = 0  
      >A · 1 = 1  
      >A' · A = 0  
      >A · A = A  
-   * ##### property of the NOT gate
+    * ##### property of the NOT gate
      >A = A
 
      >A + AB = A  
      >A (A + B) = A  
      >A + AB= A + B  
-   * ##### Commutative – order of variables does not matter when using the AND and OR operations
+    * ##### Commutative – order of variables does not matter when using the AND and OR operations
      >A + B = B + A  
      >A · B = B · A
-   * ##### Associative – the result of applying an operation over 3 variables is not affected by the order taken
+    * ##### Associative – the result of applying an operation over 3 variables is not affected by the order taken
      >A (BC) = (AB) C  
      A + (B + C) = (A + B) + C
-   * ##### De Morgan’s theorems
+    * ##### De Morgan’s theorems
     >(A + B) = A'  · B'  
     >(AB)'  =A' + B'
 
