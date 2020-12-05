@@ -110,8 +110,8 @@
     * preset (PRE)
     * clear (CLR)
 * ### Application Examples
- * ##### Contact bounce
- * ##### Frequency division
+  * ##### Contact bounce
+  * ##### Frequency division
 
 #  **Counters & Registers**
 * ### Counter
