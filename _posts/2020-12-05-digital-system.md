@@ -14,7 +14,7 @@
 * ### Dealing with Negative Numbers
   * ##### 1's complement
   * ##### 2's complement
-* ### converting Signed Numbers to Decimal
+* ### Converting Signed Numbers to Decimal
 * ### Hexadecimal Representation
 * ### Binary Codes
   * ##### BCD
