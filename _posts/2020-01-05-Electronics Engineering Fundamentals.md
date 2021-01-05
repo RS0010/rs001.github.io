@@ -99,3 +99,6 @@ The total of the electric flux out of a closed surface is equal to the
 charge enclosed divided by the permittivity.
 * ![Gauss' Law](https://s3.ax1x.com/2021/01/06/sA2l4J.jpg)
 * If the net charged enclosed is zero, then the electric flux is zero. This is something that is used a lot in practice.
+
+##### Example
+* ![Example](https://s3.ax1x.com/2021/01/06/sA2I8s.jpg)
