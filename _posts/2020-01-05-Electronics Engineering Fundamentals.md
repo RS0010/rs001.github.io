@@ -1,3 +1,6 @@
+
+---
+
 # **Introduction**
 
 ## outline
@@ -115,4 +118,55 @@ charge enclosed divided by the permittivity.
 
 # **Current, Voltage and Resistance**
 
-##
+## Ohm’s Law
+Ohm’s law states that the current (I) through a resistive path is
+directly proportional to the potential difference or voltage (V)
+across the two points, and inversely proportional to the
+resistance (R) between them.
+* ![Ohm’s Law](https://s3.ax1x.com/2021/01/06/sARCKx.jpg)
+
+### Electrical Power
+* ![Electrical Power](https://s3.ax1x.com/2021/01/06/sARkVO.jpg)
+  * This (and Ohm’s Law) are fundamental equations.
+  * **You will need to always know these equations!**
+
+## Some Rules for Circuits and Resistors
+**Rule 1**: All points on a wire are assumed to be the same point as the wire
+has perfect conductivity.  
+**Rule 2**: A point in the circuit where 2 or more components are connected is called a node. A 2-path **node** is trivial, the more interesting ones are 3 or more (*note that ground is always a node*).  
+**Rule 3**: All circuits must have at least one loop so that current can flow back to where it started.  
+**Rule 4**: If 2 circuit elements are connected only by a **2-path node** (ie a wire), then they are said to be in **SERIES**.  
+**Rule 5**: If 2 or more circuit elements are connected between the same nodes, then they are said to be in **PARALLEL**.  
+**Rule 6**: If the current must pass through two resistors (assuming that there is no other path of escape), then the total voltage drop is shared across the two resistors. (SERIES)  
+**Rule 7**: If the voltage across two resistors is equal, then the current in each path is inversely proportional to the resistance in each path. (PARALLEL)  
+
+**Node** is a **point** in the circuit where two or more elements are connected.  
+**Branch** is a **single component**, such as resistor/source.In other words,
+a branch represents any two-terminal element.
+**loop** is a **closed path** through a circuit that visits each element no more than once.
+
+## Measuring Current and Voltage
+* **Ohmmeters** : measure resistance.
+* **Voltmeters** : sense the voltage difference between two points.
+* **Ammeters**: measure the current flowing through a wire.
+
+## Drawing schematics and circuits
+**Schematic** is the term for the diagram that represents an electrical circuit.
+1. Wires in schematics are deemed to be ideal.
+2. It should not matter how the schematic is drawn, but it does.
+3. It is good practice to draw a schematic to enhance understanding as much as possible – there are some guidelines on good practice.
+* ![symbols](https://s3.ax1x.com/2021/01/06/sARzTS.jpg)
+  * Use the right symbols, give them labels (R1, C3, X2)
+* Try to use a vertical/horizontal drawing plan, not one with random orientations.
+* Space the elements well apart, keep it visually simple!
+* If two wires are connected, show it with a solid dot! Two crossing wires are often assumed to be connected, but best to be sure.
+* If two wires are passing each other but not connected, a dot is not used and where possible, a bridge is shown. It is best to minimise cross-overs where possible.
+
+### Rules
+* Always note the voltage supplies and earth on the schematic.
+* Place the battery/power source to the left hand side of the schematic (not always possible).
+* Try to place parallel and series circuit elements and sections of circuits in vertical/horizontal modular forms.
+* Place the positive voltage to the top, ground to the bottom.
+* Mark wire connections clearly, and label them.
+* Wires connect and bend at right angles (90o).
+* Use correct symbols and appropriately label components (try to list component values on the schematic if space permits).
