@@ -74,14 +74,28 @@ electrons.
 * Actually all forces act on **each other**!
 
 ### Electric Field
-Electric field is defined as the electric force per unit charge. The direction of the field is taken to be the direction of the force it would exert on a positive test charge.
+Defined as the electric force per unit charge. The direction of the field is taken to be the direction of the force it would exert on a positive test charge.
 * ![Electric Field](https://s3.ax1x.com/2021/01/06/sAgonK.jpg)
 * Direction of the electric field is the same as the direction of the electric force if q is positive.
 
 ##### Different Electric Fields
 An infinitely long charged wire
 * ![An infinitely long charged wire](https://s3.ax1x.com/2021/01/06/sAgj1I.jpg)
+
 A charged sheet
 * ![A charged sheet](https://s3.ax1x.com/2021/01/06/sAgxjP.jpg)
+
 Parallel Plates
 * ![Parallel Plates](https://s3.ax1x.com/2021/01/06/sA2Snf.jpg)
+
+### Electric Flux (**Φ**)
+Defined as the electric field times the component of the area perpendicular to the field.
+* For a point charge, the electric field radiate evenly from that point. If we define a sphere enclosing the point, then all electric field lines are perpendicular to the surface. Then all you need to do is calculate the field and multiply by the area.
+* ![Electric Flux](https://s3.ax1x.com/2021/01/06/sA2nBT.jpg)
+  * The total electric flux is independent of sphere radius and is only dependent on Q. This can be generalised to Gauss’ Law.
+
+##### Gauss' Law
+The total of the electric flux out of a closed surface is equal to the
+charge enclosed divided by the permittivity.
+* ![Gauss' Law](https://s3.ax1x.com/2021/01/06/sA2l4J.jpg)
+* If the net charged enclosed is zero, then the electric flux is zero. This is something that is used a lot in practice.
