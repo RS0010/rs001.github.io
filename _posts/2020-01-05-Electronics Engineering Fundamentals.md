@@ -1,17 +1,17 @@
 # **Introduction**
 
 ### outline
-**Introduction and Motivation**: Electronics in Society, Scientific Notation and Exponents,Engineering Notation
-**Basic Electromagnetics**: Charge, Vectors and Coulombs Law and Applications
-**Electricity**: Voltage and Current, Resistance and Conductance, Resistivity, Fundamental
-Relations: Ohm’s Law, Energy, Power
-**Very Simple Circuit Analysis**: Voltage Division, Current Division, Series and Parallel Circuits
-**More Circuit Analysis**: Kirchhoff’s Laws, Circuit Theorems, Source Transformations: Thevenin’s Theorem & Norton’s Theorem
-**Even more circuits analysis**: Multiloop Circuits, Nodal Analysis, Mesh Analysis
-**Basic Electronics**: Ideal Diodes, Transistors, simple circuits
-**Electrical Safety**: at home and at work
-**The Environment, Social Responsibility**: the impact of our decisions on our peers and the environment
-**Communication**: communication networks, principles of wireless communications, receivers and transmitter
+**Introduction and Motivation**: Electronics in Society, Scientific Notation and Exponents,Engineering Notation  
+**Basic Electromagnetics**: Charge, Vectors and Coulombs Law and Applications  
+**Electricity**: Voltage and Current, Resistance and Conductance, Resistivity, Fundamental  
+Relations: Ohm’s Law, Energy, Power  
+**Very Simple Circuit Analysis**: Voltage Division, Current Division, Series and Parallel Circuits  
+**More Circuit Analysis**: Kirchhoff’s Laws, Circuit Theorems, Source Transformations: Thevenin’s Theorem & Norton’s Theorem  
+**Even more circuits analysis**: Multiloop Circuits, Nodal Analysis, Mesh Analysis  
+**Basic Electronics**: Ideal Diodes, Transistors, simple circuits  
+**Electrical Safety**: at home and at work  
+**The Environment, Social Responsibility**: the impact of our decisions on our peers and the environment  
+**Communication**: communication networks, principles of wireless communications, receivers and transmitter  
 
 ### Engineering Notation
 * Scaling units(down)
